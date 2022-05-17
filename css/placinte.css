@@ -1,0 +1,20 @@
+.ingrediente{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+.ingrediente img{
+    width: 500px;
+    height: 350px;
+}
+.list{
+    font-size: 28px;
+    margin-left: 150px;
+}
+.preparare{
+    margin-top: 50px;
+}
+
+.preparare p{
+    font-size: 24px;
+}

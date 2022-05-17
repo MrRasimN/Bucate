@@ -1,0 +1,30 @@
+body{
+    background-color: #18191A;
+    color: #f8f0e3;
+    margin: 50px 50px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.title{
+    font-size: 24px;
+}
+.name{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+}
+
+.title a{
+    color: #f8f0e3;
+    text-decoration: none;
+}
+
+.links a{
+    color: #f8f0e3;
+    font-size: 24px;
+    padding-left: 20px;
+}
